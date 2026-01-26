@@ -1,0 +1,17 @@
+# STM32CubeIDE / Eclipse
+Debug/
+Release/
+.settings/
+.metadata/
+*.launch
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+Thumbs.db
+Desktop.ini
