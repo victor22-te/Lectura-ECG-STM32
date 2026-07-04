@@ -2,9 +2,19 @@
 
 **CardioView Pro** es un sistema avanzado de monitoreo electrocardiográfico (ECG) en tiempo real, desarrollado sobre la plataforma STM32 y con una interfaz de visualización médica profesional en Python.
 
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Platform](https://img.shields.io/badge/Platform-STM32%20%7C%20Python-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-STM32%20%7C%20Python-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ECG%20%2F%20EKG-ff69b4?style=flat-square&logo=fitbit&logoColor=white" alt="ECG" />
+  <img src="https://img.shields.io/badge/STM32F401-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/AD8232%20Sensor-F39C12?style=flat-square" alt="AD8232" />
+  <img src="https://img.shields.io/badge/Biomedical%20Eng-8E44AD?style=flat-square&logo=dna&logoColor=white" alt="Biomedical" />
+  <img src="https://img.shields.io/badge/DSP%20Filtering-27AE60?style=flat-square" alt="DSP" />
+  <img src="https://img.shields.io/badge/Python%20Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Real--Time%20Data-E74C3C?style=flat-square&logo=apachespark&logoColor=white" alt="Real-Time" />
+</div>
 
 ## 📋 Descripción
 
