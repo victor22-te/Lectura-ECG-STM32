@@ -20,6 +20,10 @@
 
 Este proyecto implementa un monitor cardíaco completo que adquiere señales biopotenciales utilizando el sensor AD8232 y un microcontrolador STM32F401. El firmware realiza un pre-procesamiento digital de la señal (DSP) para eliminar ruido, mientras que la aplicación de escritorio proporciona una visualización nítida, cálculo de frecuencia cardíaca (BPM) y análisis en tiempo real.
 
+<div align="center">
+  <img src="assets/demo_ecg.gif" alt="Demo CardioView Pro" width="800"/>
+</div>
+
 ### ✨ Características Principales
 
 *   **Adquisición de Precisión:** Muestreo a 250Hz con ADC de 12-bits.
