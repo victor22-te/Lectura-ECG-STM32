@@ -1,4 +1,4 @@
-# 🏥 LEctura con Monitor ECG 
+# 🏥 Lectura con Monitor ECG 
 
 **CardioView Pro** es un sistema avanzado de monitoreo electrocardiográfico (ECG) en tiempo real, desarrollado sobre la plataforma STM32 y con una interfaz de visualización médica profesional en Python.
 
