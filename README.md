@@ -78,7 +78,7 @@ Este proyecto implementa un monitor cardíaco completo que adquiere señales bio
 ## Autores
 
 *   **Victor Francisco Villafaña Hernández  🕷️**
-*   **Evander Joel Domínguez Hernández **
+*   **Evander Joel Domínguez Hernández**
 *   **Uriel Montiel Martínez**
 
 ### Sujeto de prueba
