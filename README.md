@@ -22,6 +22,7 @@ Este proyecto implementa un monitor cardíaco completo que adquiere señales bio
 
 <div align="center">
   <img src="assets/demo_ecg.gif" alt="Demo CardioView Pro" width="800"/>
+  <img src="assets/Mera-Runner-Sujeto-de-Prueba.jpeg" alt="Sujeto de Prueba" width=800/>
 </div>
 
 ### Características Principales
